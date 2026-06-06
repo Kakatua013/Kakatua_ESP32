@@ -3,9 +3,9 @@
 #include <ArduinoJson.h>
 
 // ─── Configurações de Rede e API ────────────────────────
-const char* ssid = "Seiba";
-const char* password = "excalibur";
-const char* apiKey = "ifpDXyrQY13sJJj8T98dr3FoLvjbtxfpsBAEOJcp1p0=";
+const char* ssid = "NOME DO WIFI DE ACESSO";
+const char* password = "SENHA DO WIFI DE ACESSO";
+const char* apiKey = "insira API KEY AQUI";
 const char* urlEstacao = "https://esp32.chobby-chobby.com.br/api/sensor/estacao/";
 const char* urlTranca = "https://esp32.chobby-chobby.com.br/api/sensor/acesso/";
 
